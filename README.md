@@ -12,3 +12,4 @@ Developed framework for automated testing of backend in companies:
 
 
 <!--![PROaction's github stats](https://github-readme-stats.vercel.app/api?username=PROaction) -->
+![Profile views](https://gpvc.arturio.dev/PROaction)
