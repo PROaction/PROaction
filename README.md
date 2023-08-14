@@ -1,7 +1,6 @@
 # Hello there 👋, I'm Sergey! 🦦
 
 - 🤓 I'm Python-autotester (REST-API (PyTest), front-end (Selenium))
-- 🏆 I'm an avid improver. Continuously learning how to make the world better.
 - Experience in testing for about 10 years
 Developed framework for automated testing of backend in companies:
   - 5POST
